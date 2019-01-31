@@ -1,1 +1,6 @@
-export * from './themes/index';
+import { buildTheme, getStyle } from "./themes";
+
+export default {
+    buildTheme,
+    getStyle
+};
