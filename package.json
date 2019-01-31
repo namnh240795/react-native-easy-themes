@@ -12,5 +12,9 @@
   },
   "main": "index.js",
   "author": "namnh240795",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "print-message": "^2.1.0"
+  }
 }
