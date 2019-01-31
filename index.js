@@ -1,6 +1,1 @@
-import { buildTheme, getStyle } from "./themes";
-
-export default {
-    buildTheme,
-    getStyle
-};
+export { buildTheme, getStyle } from "./themes";
